@@ -31,8 +31,6 @@ const onlyNumbers = splitted.map((arraySplited) => {
 
 const onlyFirstAndSecondNumber = onlyNumbers.map((string) => {
 
-  // const filteredOnlyFirstAndSecond = string
-  // .split('')
   
   return `${string.charAt(0)}${string.charAt(string.length-1)}`
 
