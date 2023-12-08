@@ -9,7 +9,7 @@ let dummyParsed = dummy.toString("utf-8")
 
 // console.log(dummyParsed)
 
-// console.log(dummy)
+
 
 // console.log("Type of parsed data:", typeof(dummyParsed))
 
